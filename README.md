@@ -1,1 +1,1 @@
-(https://michaelzvor.github.io/LoftHouse/)
+https://michaelzvor.github.io/LoftHouse/
